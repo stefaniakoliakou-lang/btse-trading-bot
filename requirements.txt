@@ -3,6 +3,7 @@
 # Core Trading Libraries
 ccxt>=4.1.0              # Cryptocurrency exchange integration
 pandas>=2.0.0            # Data manipulation and analysis
+gunicorn==21.2.0
 numpy>=1.24.0            # Numerical computing
 
 # Technical Analysis
